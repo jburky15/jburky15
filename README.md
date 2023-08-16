@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://jburkycodes.com/](https://jburkycodes.com/)
 
-- 📝 I regularly write articles on [-- Coming Soon --](-- Coming Soon --)
+- 📝 I regularly write articles on [-- Coming Soon --]
 
 - 📫 How to reach me **jburky15@gmail.com**
 
