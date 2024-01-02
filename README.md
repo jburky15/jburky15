@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **TypeScript, Flask**
 
-- 👨‍💻 All of my projects are available at [https://jburkycodes.com/](https://jburkycodes.com/)
+- 👨‍💻 All of my projects are available at [https://jburkycodes.com/](https://jburkycodes.com/) - currently offline
 
 - 📝 I regularly write articles on [-- Coming Soon --]
 
