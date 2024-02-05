@@ -9,8 +9,6 @@
 
 - 👨‍💻 All of my projects are available at [https://jburkycodes.com/](https://jburkycodes.com/) - currently offline
 
-- 📝 I regularly write articles on [-- Coming Soon --]
-
 - 📫 How to reach me **jburky15@gmail.com**
 
 <h3 align="center">Connect with me:</h3>
