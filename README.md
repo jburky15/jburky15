@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on an ecommerce site using Django for a company called [Lambda Guitars](https://github.com/jburky15/django-ecommerce)
 
-- 🌱 I’m currently learning **TypeScript, Flask**
+- 🌱 I’m currently learning **Django**
 
 - 👨‍💻 All of my projects are available at [https://jburkycodes.com/](https://jburkycodes.com/) - currently offline
 
