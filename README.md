@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jburky15&label=Profile%20views&color=0e75b6&style=flat" alt="jburky15" /> </p>
 
-- 🔭 I’m currently working on an ecommerce site using Django for a company called [Lambda Guitars]([https://github.com/jburky15/doggo-adoption](https://github.com/jburky15/django-ecommerce))
+- 🔭 I’m currently working on an ecommerce site using Django for a company called [Lambda Guitars](https://github.com/jburky15/django-ecommerce)
 
 - 🌱 I’m currently learning **TypeScript, Flask**
 
